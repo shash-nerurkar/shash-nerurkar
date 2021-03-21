@@ -43,10 +43,18 @@
 <br/>
 
 📫 How to reach me: ...
-<a href='mailto:name@domain'>Email</a>
-<a href='https://www.linkedin.com/in/shashank-nerurkar-1bb151171/'>LinkedIn</a>
-<a href='https://devpost.com/shash-nerurkar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav'>Devpost</a>
-<br/><br/>
+    <ul>
+        <li>
+            <a href='mailto:name@domain'>Email</a>
+        </li>
+        <li>
+            <a href='https://www.linkedin.com/in/shashank-nerurkar-1bb151171/'>LinkedIn</a>
+        </li>
+        <li>
+            <a href='https://devpost.com/shash-nerurkar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav'>Devpost</a>
+        </li>
+    </ul>
+<br/>
 
 ⚡ Fun fact: ...
 
