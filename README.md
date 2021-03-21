@@ -5,14 +5,24 @@
 </p>
 
 🔭 I’m currently working on ...
-    <p>A video game called Amortum | The Final Call</p>
-    <p>Another video game called The Grand Scehem of Things, ver2.0</p>
+    <ul>
+        <li>
+            A video game called Amortum | The Final Call
+        </li>
+        <li>
+            Another video game called The Grand Scehem of Things, ver2.0
+        </li>
+    </ul>
 <br/><br/>
 
 🌱 I’m currently learning ...
     <ul>
-        <li>Game Development</li>
-        <li>Pixel Art</li>
+        <li>
+            Game Development
+        </li>
+        <li>
+            Pixel Art
+        </li>
     </ul>
 <br/><br/>
 
