@@ -45,7 +45,7 @@
 📫 How to reach me: ...
     <ul>
         <li>
-            <a href='mailto:name@domain'>Email</a>
+            <a href='mailto:shash.nerurkar@gmail.com'>Email</a>
         </li>
         <li>
             <a href='https://www.linkedin.com/in/shashank-nerurkar-1bb151171/'>LinkedIn</a>
