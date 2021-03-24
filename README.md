@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>
+<p align='justify'>
     I'm Shashank! I am a nineteen-year old amateur game developer from Gujarat, India. I run on different usernames online, from civilian-archetype, M1Abhrahams to shape-           shifter.
     <br />
     Technical stuff: I am currently pursuing my Bachelors degree of Technology in the discipline of Computer Engineering. 
@@ -33,7 +33,7 @@
 <br/>
 
 👯 My current goal is ...
-    <ul>
+    <ul align='justify'>
         <li>
             perfecting my projects! I cannot work on things I don't love. Therefore, I love what I work on. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                               <sub><sup>girlfriend</sup></sub>
         </li>
