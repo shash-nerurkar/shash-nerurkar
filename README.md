@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <p>
-    I'm Shashank! I run on different usernames online, varying from civilian-archetype to shape-shifter.
+    I'm Shashank! I am a nineteen-year old amateur game developer from Gujarat, India. I run on different usernames online, from civilian-archetype, M1Abhrahams to shape-           shifter.
+    <br />
+    Technical stuff: I am currently pursuing my Bachelors degree of Technology in the discipline of Computer Engineering. 
 </p>
 <br/>
 
@@ -11,7 +13,7 @@
             A video game called Amortum | The Final Call
         </li>
         <li>
-            Another video game called The Grand Scehem of Things, ver2.0
+            Another video game called The Grand Scheme of Things, ver2.0
         </li>
     </ul>
 <br/>
@@ -24,13 +26,16 @@
         <li>
             Pixel Art
         </li>
+        <li>
+            Some random Comp. Engg. stuff
+        </li>
     </ul>
 <br/>
 
 👯 My current goal is ...
     <ul>
         <li>
-            perfecting my projects! I cannot work on things I don't love. Therefore, I love what I work on. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                 <sub><sup>girlfriend</sup></sub>
+            perfecting my projects! I cannot work on things I don't love. Therefore, I love what I work on. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                               <sub><sup>girlfriend</sup></sub>
         </li>
         <li>
             getting an internship in an active gaming corporation. I have been developing video games with my friends for a long time now. Often, me and my friends fall short in             certain modules of our games. To imagine that work having the profI am excited at the prospect of working in a real environment with professionals and watch
@@ -38,8 +43,8 @@
     </ul>
 <br/>
         
-🤔 I’m looking for help with ...
-
+🤔 I’m looking for ...
+    Anyone experienced and active in the game development industry. I would love to have a chat with them.
 <br/>
 
 📫 How to reach me: ...
@@ -54,8 +59,4 @@
             <a href='https://devpost.com/shash-nerurkar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav'>Devpost</a>
         </li>
     </ul>
-<br/>
-
-⚡ Fun fact: ...
-
 <br/>
