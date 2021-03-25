@@ -44,6 +44,7 @@
 <br/>
         
 🤔 I’m looking for ...
+<br/>
     Anyone experienced and active in the game development industry. I would love to have a chat with them.
 <br/>
 
