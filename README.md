@@ -38,7 +38,7 @@
             perfecting my projects! I cannot work on things I don't love. Therefore, I love what I work on. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub><sup>girlfriend</sup></sub>
         </li>
         <li>
-            getting an internship in an active gaming corporation. I have been developing video games with my friends for a long time now. Often, me and my friends fall short in             certain modules of our games. To imagine that work having the profI am excited at the prospect of working in a real environment with professionals and watch
+            getting an internship in an active gaming corporation. I have been developing video games with my friends for a long time now. Often, me and my friends fall short in             certain modules of our games. To imagine that work having the maturity (and more) that I see in the modules that we are good at, gives me shivers. I am excited at               the prospect of working in a real environment with professionals and learning from them the ins and outs of the game dev world. 
         </li>
     </ul>
 <br/>
