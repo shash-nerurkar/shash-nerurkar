@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align='justify'>
-    I'm Shashank! I am a nineteen-year old amateur game developer from Gujarat, India. I run on different usernames online, from Civilian_Archetype, M1Abhrahams to ShapeShifter.
+    I'm Shashank! I am a twenty one year old amateur game developer from Gujarat, India. I run on different usernames online, from Civilian_Archetype, M1Abhrahams to ShapeShifter.
     <br />
     Technical stuff: I am currently pursuing my Bachelors degree of Technology in the discipline of Computer Engineering. 
 </p>
@@ -29,6 +29,9 @@
         <li>
             Some random Comp. Engg. stuff
         </li>
+        <li>
+            Flutter (By Google)
+        </li>
     </ul>
 <br/>
 
@@ -38,7 +41,7 @@
             perfecting my projects! I cannot work on things I don't love. Therefore, I love what I work on. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sub><sup>girlfriend</sup></sub>
         </li>
         <li>
-            getting an internship in an active gaming corporation. I have been developing video games with my friends for a long time now. Often, me and my friends fall short in             certain modules of our games. To imagine that work having the maturity (and more) that I see in the modules that we are good at, gives me shivers. I am excited at               the prospect of working in a real environment with professionals and learning from them the ins and outs of the game dev world. 
+            getting into an active gaming corporation. I have been developing video games with my friends for a long time now. Often, me and my friends fall short in             certain modules of our games. To imagine that work having the maturity (and more) that I see in the modules that we are good at, gives me shivers. I am excited at               the prospect of working in a real environment with professionals and learning from them the ins and outs of the game dev world. 
         </li>
     </ul>
 <br/>
