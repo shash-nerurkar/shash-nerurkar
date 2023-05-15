@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <p align='justify'>
-    I'm Shashank! I am a twenty one year old amateur game developer from Gujarat, India. I run on different usernames online, from Civilian_Archetype, M1Abhrahams to ShapeShifter.
+    I'm Shashank! I am a twenty-two year old amateur game developer from Gujarat, India. I run on different usernames online, from Civilian_Archetype, M1Abhrahams to ShapeShifter.
     <br />
-    Technical stuff: I am currently pursuing my Bachelors degree of Technology in the discipline of Computer Engineering. 
+    Technical stuff: I am currently working as a Flutter mobile developer in Zignuts Technolabs.
 </p>
 <br/>
 
