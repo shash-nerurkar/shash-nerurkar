@@ -61,7 +61,10 @@
             <a href='https://www.linkedin.com/in/shashank-nerurkar-1bb151171/'>LinkedIn</a>
         </li>
         <li>
-            <a href='https://www.instagram.com/stash.at.stake/'>Itch</a>
+            <a href='https://civilian-archetype.itch.io/'>Itch</a>
+        </li>
+        <li>
+            <a href='https://www.instagram.com/stash.at.stake/'>Instagram</a>
         </li>
         <li>
             <a href='https://devpost.com/shash-nerurkar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav'>Devpost</a>
