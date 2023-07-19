@@ -21,16 +21,13 @@
 🌱 I’m currently learning ...
     <ul>
         <li>
-            Game Development
+            Game Development using Unity and C#
         </li>
         <li>
-            Pixel Art
+            Pixel Art using Aseprite
         </li>
         <li>
-            Some random Comp. Engg. stuff
-        </li>
-        <li>
-            Flutter (By Google)
+            Data Structures and Algorithms
         </li>
     </ul>
 <br/>
@@ -62,6 +59,9 @@
         </li>
         <li>
             <a href='https://www.linkedin.com/in/shashank-nerurkar-1bb151171/'>LinkedIn</a>
+        </li>
+        <li>
+            <a href='https://www.instagram.com/stash.at.stake/'>Itch</a>
         </li>
         <li>
             <a href='https://devpost.com/shash-nerurkar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav'>Devpost</a>
