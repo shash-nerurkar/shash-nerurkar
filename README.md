@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 <p align='justify'>
-    I'm Shashank! I am a twenty-two year old amateur game developer from Gujarat, India. You may also know me as StashAtStake, Civilian_Archetype, M1Abhrahams.
+    I'm Shashank! I am a twenty-two year old game developer from Gujarat, India. You may also know me as StashAtStake, Civilian_Archetype, M1Abhrahams.
     <br />
-    Technical stuff: I am currently working as a Flutter mobile developer in Zignuts Technolabs.
+    Technical stuff: I am between jobs. My last job was as a Mobile Applications developer in Zignuts Technolabs. I have been developing software professionally for 2 years.
 </p>
 <br/>
 
 🔭 I’m currently working on ...
     <ul>
         <li>
-            A video game called Amortum | The Final Call
+            A video game called Gaatha
         </li>
         <li>
-            Another video game called The Grand Scheme of Things, ver2.0
+            Another video game called Unnamed
         </li>
     </ul>
 <br/>
@@ -22,9 +22,6 @@
     <ul>
         <li>
             Game Development using Unity and C#
-        </li>
-        <li>
-            Pixel Art using Aseprite
         </li>
         <li>
             Data Structures and Algorithms
@@ -47,7 +44,7 @@
 <br/>
     <ul align='justify'>
         <li>
-            Anyone experienced and active in the game development industry. I would love to have a chat with them.
+            Anyone experienced and active in the game development industry. I would love to chat!
         </li>
     </ul>
 <br/>
