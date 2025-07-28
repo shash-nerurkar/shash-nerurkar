@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align='justify'>
-    I'm Shashank! I am a twenty-two year old game developer from Gujarat, India. I'm also known as StashAtStake, Civilian_Archetype, M1Abhrahams.
+    I'm Shashank! I am a twenty-four year old game developer from Gujarat, India. I'm also known as StashAtStake, Civilian_Archetype, M1Abhrahams.
     <br />
     Technical stuff: Also a game dev professionally. Have a bachelor's in tech, majoring in Computer Engineering.
 </p>
